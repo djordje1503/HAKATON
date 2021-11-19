@@ -4,10 +4,10 @@
     </head>
     <body bgcolor="skyblue">
         <h1 align=center ><font color=white face=verdana><b><i><u>TRENING KOD KUĆE</u></i></b></h1>
-        <img hspace=20 width=500 height=533 align=left src="https://www3.paho.org/hq/images/stories/2020/fifa-be-active.jpg" alt="SLIKA TRENINGA" >
-        <p><font size=5 face=georgia> Voliš fizičke aktivnosti, plašiš se da odeš u teretanu, ili da treniraš u društvu? <br>Ne dozvoli da Corona remeti tvoje navike i treniraj kod kuće.</font> </p>
+        <img hspace=20 width=500 height=500 align=left src="https://www3.paho.org/hq/images/stories/2020/fifa-be-active.jpg" alt="SLIKA TRENINGA" >
+        <p><font size=56> Voliš fizičke aktivnosti, plašiš se da odeš u teretanu, ili da treniraš u društvu? <br>Ne dozvoli da Corona remeti tvoje navike i treniraj kod kuće </font></p>
         <hr color=yellow>
-        <p><font size=5 face=georgia><b>Mi ćemo ti dati osnovni plan treninga za koji ti nisu potrebni nikakvi dodatni rekviziti, ni sprave. <br>Poželjno je da imaš strunjaču kako bi ti bilo komfornije dok vežbaš.</font></b></p>
+        <p><b>Mi ćemo ti dati osnovni plan treninga za koji ti nisu potrebni nikakvi dodatni rekviziti, ni sprave. <br>Poželjno je da imaš strunjaču kako bi ti bilo komfornije dok vežbaš.</b></p>
         <table height=375 border=2 bordercolor=darkblue bgcolor=lightblue>
         <tr>
             <th colspan=4>PLAN TRENINGA</th>
@@ -53,5 +53,6 @@
 
 
 
+        
         
     </body>
